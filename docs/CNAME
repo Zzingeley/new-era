@@ -1,1 +1,5 @@
 zzingeley.example.com
+
+title: My Awesome Blog
+description: A blog about tech and development.
+theme: jekyll-theme-cayman
